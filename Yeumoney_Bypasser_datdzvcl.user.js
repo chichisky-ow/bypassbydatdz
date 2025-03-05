@@ -2,8 +2,8 @@
 // @name         Yeumoney Bypasser by datdzvcl
 // @namespace    http://tampermonkey.net/
 // @version      7.0
-// @description  The Ultimate Yeumoney Bypass ( Hieudz * Ducknovis * XGreen)
-// @author       HieuDz
+// @description  The Ultimate Yeumoney Bypass (Datdz*LinhXG)
+// @author       Datdz
 // @match        *://yeumoney.com/*
 // @match        *://docs.google.com/spreadsheets/*
 // @match        *://docs.google.com/forms/*
