@@ -1,9 +1,3 @@
-
-
-
-
-
-
 // ==UserScript==
 // @name         Yeumoney Bypasser by Đạt dz
 // @namespace    http://tampermonkey.net/
